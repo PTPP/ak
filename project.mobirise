@@ -705,7 +705,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
             ".mbr-section-lead P": {
-              "color": "#ffffff"
+              "color": "#cccccc"
             }
           },
           "_tags": [
