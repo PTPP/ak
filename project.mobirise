@@ -1,0 +1,1320 @@
+{
+  "settings": {
+    "currentPage": "test.index",
+    "name": "Aleksandra Kołodziej",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#502c84",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#ffffff",
+        "dangerColor": "#793fff",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#1e0063"
+      ]
+    },
+    "versionFirst": "3.11.1",
+    "uniqCompNum": 84,
+    "versionPublish": "4.5.4",
+    "favicon": "@PROJECT_PATH@/assets/images/logodostron-130x128-128x126.png",
+    "noImageResize": "",
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-50260950-4', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
+    "cookiesAlert": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "siteUrl": "http://ak.psychopedagog.eu",
+    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcher": "on"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "title": "Aleksandra Kołodziej: Plastyk, artysta",
+        "meta_descr": "Strona główna Aleksandry Kołodziej. Plastyka i artysty.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#cccccc",
+              "font-size": "48px",
+              "text-align": "left"
+            },
+            ".mbr-section-lead": {
+              "color": "#ffffff",
+              "text-align": "left",
+              "font-size": "20px"
+            },
+            ".btn": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".mbr-section-lead P": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "left",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-250-1999x1125.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0"
+          },
+          "title": "Aleksandra Kołodziej",
+          "text": "<p>plastyk, artysta&nbsp;&nbsp;&nbsp;&nbsp;<br></p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index#header3-z\" data-toolbar=\"-mbrBtnMove\">Więcej...</a>",
+          "_anchor": "header5-21"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#000000",
+              "font-size": "36px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "title": "OFERTA USŁUG",
+          "meta": "By John Smith posted July 20, 2016",
+          "_anchor": "header3-22"
+        },
+        {
+          "_inherit": "features4",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#7c7c7c"
+            },
+            ".iconbox": {
+              "background-color": "#502c84",
+              "border-color": "#502c84"
+            },
+            "H4": {
+              "color": "#000000"
+            },
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_name": "features7",
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showButtons": false,
+            "iconsBgColor": "#502c84",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "5",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "layers",
+              "family": "mobirise-icons-bold",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "title1": "Obrazy ścienne",
+          "subtitle1": "Wykonywanie obrazów ściennych w domach, firmach i elewacjach budynków.",
+          "caption1": "Oferuję przeprowadzenie kompleksowych terapii indywidualnych związanych z problemami personalnymi. Pracuję w sposób poznawczo-behawioralny.&nbsp;<span style=\"font-size: 1rem; line-height: 1.5;\">Terapeutyzuję problemy emocjonalne, społeczne, zawodowe, personalne, stany depresyjne.</span><br><span style=\"font-size: 1rem; line-height: 1.5;\"><br></span>Przyjmuję w<b> Poradni Psychopedagogicznej</b> w <b>Bolesławcu</b> oraz w formie <b>on-line</b>.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "features",
+              "family": "mobirise-icons-bold",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "title2": "Projektowanie wnętrz",
+          "subtitle2": "Zaprojektowanie wnętrza mieszkania, biura lub innego pomieszczenia użytkowego.",
+          "caption2": "Coaching, nazywany inaczej treningem personalnym, obejmuje dwie sfery: life oraz business. W kwestiach życiowych pomaga rozwinąć komunikację z ludźmi, poszerza również świadomość. W biznesie zaś skupia się na uwydatnianiu atrybutów niezbędnych w nowoczesnej przedsiębiorczości. Celuje w innowacyjność.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "photo",
+              "family": "mobirise-icons-bold",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "title3": "Grafiki",
+          "subtitle3": "Wykonywanie prac metodą graficzną.",
+          "caption3": "Poradnictwo jest to zaawansowane i profesjonalne doradztwo. Wiąże się z otrzymaniem danych na temat życia, pracy, rodziny, wychowania, analizą wyborów i wsparciu w podejmowaniu trudnych i ciężkich decyzji.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "gift",
+              "family": "mobirise-icons-bold",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "title4": "Upominki i prezenty<br>",
+          "subtitle4": "Tworzenie prezentów, upominków oraz opakowań.",
+          "caption4": "Diagnostyka jest procesem indywidualnym. Diagnostyka rodzinna przydaje się w sprawach rozwodowych, przyznania opieki nad dzieckiem lub karnych. W procesie diagnostycznym biorą udział również inni specjaliści. Jako pedagog uczestniczę również przy diagnostyce w problemach natury społecznej oraz prawnej.<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "website-theme",
+              "family": "mobirise-icons-bold",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "title5": "Odświeżanie mebli",
+          "subtitle5": "Malowanie mebli, wykonywanie malunków na meblach.",
+          "caption5": "Hipzona niejednokrotnie pomogła wielu osobom. Hipnoza pozwalają uskutecznić pracę terapeutyczną także poprzez wzmocnienie w pacjentach samooceny, samowystarczalności, pewności siebie. Sprzyja leczeniu uzależnień, lęków, fobii, depresji.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_anchor": "features7-23"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "0",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": "Napis na ścianie"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": "Obraz"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": "Obraz"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/4-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": true,
+                "alt": "Obraz na szafie"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_anchor": "gallery1-24"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Zobacz moje pełne portfolio na&nbsp;",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-25"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.instagram.com/kolodzic/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span>Insatram</a> <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://www.behance.net/aleksandraaa9d\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-behance mbr-iconfont mbr-iconfont-btn\"></span>Adobe Behance</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://facebook.com/Plastyk-artysta-Aleksandra-Kołodziej-221044178485838/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span>Facebook</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-26"
+        },
+        {
+          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "postToLoad": "3",
+            "facebook": "plastykkolodziej",
+            "twitter": "",
+            "google": "",
+            "youtube": "",
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
+            "overlay": true,
+            "overlayColor": "#7e9b9f",
+            "overlayOpacity": 0.6
+          },
+          "alias": "social-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "feed",
+          "_anchor": "feed-27"
+        },
+        {
+          "_params": {
+            "token": "1575122156.727bfe1.8074ee58b8854844af6575dcb2538843",
+            "showTitle": true,
+            "layoutGridRadio": true,
+            "imagesPerRowGrid": "4",
+            "rows": 2,
+            "showMoreButton": true,
+            "layoutSliderRadio": false,
+            "imagesPerRowSlider": 4,
+            "spacing": 5,
+            "fullWidth": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColorRadio": true,
+            "bgColor": "#fafafa",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/instagram-feed/instagram-feed-block/assets/instagram-background.jpg",
+            "overlay": false,
+            "overlayColor": "#efefef",
+            "overlayOpacity": 0.6
+          },
+          "title": "Na Instagramie",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary display-4\" href=\"#\" data-max-id=\"1650351619378180157_1575122156\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Zobacz więcej</a>",
+          "display2": "display-2",
+          "display4": "display-4",
+          "alias": "instagram-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "instagram-feed-block",
+          "_anchor": "instagram-feed-block-28"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#553982",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ZAMÓW USŁUGĘ!",
+          "text": "<p>Sekretariat PTPP</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Rejestracja telefoniczna: +48 733 379 538</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">E-mail: ak@psychopedagog.eu</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Zapraszam do zapytań ofertowych!</b></span></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_anchor": "msg-box8-29"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffffff",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "H4": {
+              "color": "#ffffff",
+              "font-size": "16px"
+            },
+            "DIV": {
+              "font-size": "11px",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            }
+          },
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logodostron-130x128.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "http://www.psychopedagog.eu",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "Polskie Towarzystwo Psychopedagogiczne jest stowarzyszeniem ludzi zaangażowanych w sprawy lokalnych społeczności, pragnących uczestniczyć w działaniach naukowych z dziedziny oświaty, wychowania obywatelskiego i rozwoju człowieka.<br><br><b>www.psychopedagog.eu</b><br>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "mobile2",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "text2": "(+48) 733 379 538",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "home",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "text3": "59-700 Bolesławiec, ul. Teatralna 2/5",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "letter",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "text4": "ptpp@psychopedagog.eu",
+          "title1": "",
+          "text5": "",
+          "text6": "<strong>Firma</strong><br>Psychopedagog.eu. Dawid Karol Kołodziej<br>59-700 Bolesławiec, ul. Teatralna 2/5<br>NIP: 6121828675 | REGON:&nbsp;022410650\n<br><br><br><strong>Podania Psychopedagogiczna <br>w Bolesławcu</strong><br>59-700 Bolesławiec, Aleja Tysiaclecia 2<br><br><b>Rejestracja telefoniczna</b>: +48 733 379 538<br><b>E-mail:</b> poradniabc@psychopedagog.eu<br><br><b>SKŁADKI I DOTACJE: \n</b><br>VWBank: 52 2130 0004 2001 0818 4764 0001\n<br>\n<br><b>USŁUGI ODPŁATNE:\n</b><br>VWBank 25 2130 0004 2001 0818 4764 0002<br><br><b>Przy przelewie z zagranicznego konta kod SWIFT: </b>INGBPLPW<br>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "dawid.kolodziej@psychopedagog.eu",
+            "alerts": {
+              "success": "Dziękuję za e-mail. Postaram odpowiedzieć się na niego najszybciej jak to będzie możliwe."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "E-mail*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Treść wiadomości"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Wyślij</a>",
+          "_anchor": "contacts3-2a"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "16px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#391f5e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#492879!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#502c84"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#502c84!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#502c84",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logodostron-130x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://www.psychopedagog.eu",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://www.psychopedagog.eu\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Polskie Towarzystwo <br>Psychopedagogiczne</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.psychopedagog.eu\" target=\"_blank\"><span class=\"mbrib-globe-2 mbr-iconfont mbr-iconfont-btn\"></span>STRONA PTPP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "_anchor": "menu-2b"
+        }
+      ]
+    },
+    "test.index": {
+      "settings": {
+        "main": true,
+        "title": "Aleksandra Kołodziej: Plastyk, artysta",
+        "meta_descr": "Strona główna Aleksandry Kołodziej. Plastyka i artysty.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#cccccc",
+              "font-size": "48px",
+              "text-align": "left"
+            },
+            ".mbr-section-lead": {
+              "color": "#ffffff",
+              "text-align": "left",
+              "font-size": "20px"
+            },
+            ".btn": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".mbr-section-lead P": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-l",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "left",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-250-1999x1125.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0"
+          },
+          "title": "Aleksandra Kołodziej",
+          "text": "<p>plastyk, artysta&nbsp;&nbsp;&nbsp;&nbsp;<br></p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index#header3-z\" data-toolbar=\"-mbrBtnMove\">Więcej...</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#000000",
+              "font-size": "36px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-z",
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "title": "OFERTA USŁUG",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_inherit": "features4",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#7c7c7c"
+            },
+            ".iconbox": {
+              "background-color": "#502c84",
+              "border-color": "#502c84"
+            },
+            "H4": {
+              "color": "#000000"
+            },
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_name": "features7",
+          "_anchor": "features7-x",
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showButtons": false,
+            "iconsBgColor": "#502c84",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "5",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "layers",
+              "family": "mobirise-icons-bold",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "title1": "Obrazy ścienne",
+          "subtitle1": "Wykonywanie obrazów ściennych w domach, firmach i elewacjach budynków.",
+          "caption1": "Oferuję przeprowadzenie kompleksowych terapii indywidualnych związanych z problemami personalnymi. Pracuję w sposób poznawczo-behawioralny.&nbsp;<span style=\"font-size: 1rem; line-height: 1.5;\">Terapeutyzuję problemy emocjonalne, społeczne, zawodowe, personalne, stany depresyjne.</span><br><span style=\"font-size: 1rem; line-height: 1.5;\"><br></span>Przyjmuję w<b> Poradni Psychopedagogicznej</b> w <b>Bolesławcu</b> oraz w formie <b>on-line</b>.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "features",
+              "family": "mobirise-icons-bold",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "title2": "Projektowanie wnętrz",
+          "subtitle2": "Zaprojektowanie wnętrza mieszkania, biura lub innego pomieszczenia użytkowego.",
+          "caption2": "Coaching, nazywany inaczej treningem personalnym, obejmuje dwie sfery: life oraz business. W kwestiach życiowych pomaga rozwinąć komunikację z ludźmi, poszerza również świadomość. W biznesie zaś skupia się na uwydatnianiu atrybutów niezbędnych w nowoczesnej przedsiębiorczości. Celuje w innowacyjność.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "photo",
+              "family": "mobirise-icons-bold",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "title3": "Grafiki",
+          "subtitle3": "Wykonywanie prac metodą graficzną.",
+          "caption3": "Poradnictwo jest to zaawansowane i profesjonalne doradztwo. Wiąże się z otrzymaniem danych na temat życia, pracy, rodziny, wychowania, analizą wyborów i wsparciu w podejmowaniu trudnych i ciężkich decyzji.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "gift",
+              "family": "mobirise-icons-bold",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "title4": "Upominki i prezenty<br>",
+          "subtitle4": "Tworzenie prezentów, upominków oraz opakowań.",
+          "caption4": "Diagnostyka jest procesem indywidualnym. Diagnostyka rodzinna przydaje się w sprawach rozwodowych, przyznania opieki nad dzieckiem lub karnych. W procesie diagnostycznym biorą udział również inni specjaliści. Jako pedagog uczestniczę również przy diagnostyce w problemach natury społecznej oraz prawnej.<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "website-theme",
+              "family": "mobirise-icons-bold",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "title5": "Odświeżanie mebli",
+          "subtitle5": "Malowanie mebli, wykonywanie malunków na meblach.",
+          "caption5": "Hipzona niejednokrotnie pomogła wielu osobom. Hipnoza pozwalają uskutecznić pracę terapeutyczną także poprzez wzmocnienie w pacjentach samooceny, samowystarczalności, pewności siebie. Sprzyja leczeniu uzależnień, lęków, fobii, depresji.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "0",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": "Napis na ścianie"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": "Obraz"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": "Obraz"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/4-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": true,
+                "alt": "Obraz na szafie"
+              }
+            ]
+          },
+          "_anchor": "gallery1-12",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Zobacz moje pełne portfolio na&nbsp;",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1w"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.instagram.com/kolodzic/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span>Insatram</a> <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://www.behance.net/aleksandraaa9d\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-behance mbr-iconfont mbr-iconfont-btn\"></span>Adobe Behance</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://facebook.com/Plastyk-artysta-Aleksandra-Kołodziej-221044178485838/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span>Facebook</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-1v"
+        },
+        {
+          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "postToLoad": "3",
+            "facebook": "plastykkolodziej",
+            "twitter": "",
+            "google": "",
+            "youtube": "",
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
+            "overlay": true,
+            "overlayColor": "#7e9b9f",
+            "overlayOpacity": 0.6
+          },
+          "alias": "social-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "feed",
+          "_anchor": "feed-1y"
+        },
+        {
+          "_params": {
+            "token": "1575122156.727bfe1.8074ee58b8854844af6575dcb2538843",
+            "showTitle": true,
+            "layoutGridRadio": true,
+            "imagesPerRowGrid": "4",
+            "rows": 2,
+            "showMoreButton": true,
+            "layoutSliderRadio": false,
+            "imagesPerRowSlider": 4,
+            "spacing": 5,
+            "fullWidth": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColorRadio": true,
+            "bgColor": "#fafafa",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/instagram-feed/instagram-feed-block/assets/instagram-background.jpg",
+            "overlay": false,
+            "overlayColor": "#efefef",
+            "overlayOpacity": 0.6
+          },
+          "title": "Na Instagramie",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary display-4\" href=\"#\" data-max-id=\"1650351619378180157_1575122156\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Zobacz więcej</a>",
+          "display2": "display-2",
+          "display4": "display-4",
+          "alias": "instagram-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "instagram-feed-block",
+          "_anchor": "instagram-feed-block-1x"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1p",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#553982",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ZAMÓW USŁUGĘ!",
+          "text": "<p>Sekretariat PTPP</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Rejestracja telefoniczna: +48 733 379 538</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">E-mail: ak@psychopedagog.eu</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Zapraszam do zapytań ofertowych!</b></span></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffffff",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "H4": {
+              "color": "#ffffff",
+              "font-size": "16px"
+            },
+            "DIV": {
+              "font-size": "11px",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            }
+          },
+          "_anchor": "contacts3-1q",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logodostron-130x128.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "http://www.psychopedagog.eu",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "Polskie Towarzystwo Psychopedagogiczne jest stowarzyszeniem ludzi zaangażowanych w sprawy lokalnych społeczności, pragnących uczestniczyć w działaniach naukowych z dziedziny oświaty, wychowania obywatelskiego i rozwoju człowieka.<br><br><b>www.psychopedagog.eu</b><br>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "mobile2",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "text2": "(+48) 733 379 538",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "home",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "text3": "59-700 Bolesławiec, ul. Teatralna 2/5",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "letter",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "text4": "ptpp@psychopedagog.eu",
+          "title1": "",
+          "text5": "",
+          "text6": "<strong>Firma</strong><br>Psychopedagog.eu. Dawid Karol Kołodziej<br>59-700 Bolesławiec, ul. Teatralna 2/5<br>NIP: 6121828675 | REGON:&nbsp;022410650\n<br><br><br><strong>Podania Psychopedagogiczna <br>w Bolesławcu</strong><br>59-700 Bolesławiec, Aleja Tysiaclecia 2<br><br><b>Rejestracja telefoniczna</b>: +48 733 379 538<br><b>E-mail:</b> poradniabc@psychopedagog.eu<br><br><b>SKŁADKI I DOTACJE: \n</b><br>VWBank: 52 2130 0004 2001 0818 4764 0001\n<br>\n<br><b>USŁUGI ODPŁATNE:\n</b><br>VWBank 25 2130 0004 2001 0818 4764 0002<br><br><b>Przy przelewie z zagranicznego konta kod SWIFT: </b>INGBPLPW<br>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "dawid.kolodziej@psychopedagog.eu",
+            "alerts": {
+              "success": "Dziękuję za e-mail. Postaram odpowiedzieć się na niego najszybciej jak to będzie możliwe."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "E-mail*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Treść wiadomości"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Wyślij</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "16px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#391f5e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#492879!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#502c84"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#502c84!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#502c84",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logodostron-130x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://www.psychopedagog.eu",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://www.psychopedagog.eu\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Polskie Towarzystwo <br>Psychopedagogiczne</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.psychopedagog.eu\" target=\"_blank\"><span class=\"mbrib-globe-2 mbr-iconfont mbr-iconfont-btn\"></span>STRONA PTPP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        }
+      ]
+    }
+  }
+}
